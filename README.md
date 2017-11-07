@@ -2,9 +2,9 @@
 A fully distributed messaging system using SIP protocol
 Authors:
 -Arshia Hosseini, Maryam Amini, Hosseini Nassiri, Razieh Roustaei
-=============================================
+*********************************
 This project consists of a java SIP library (Jain SIP) and an underlay network using boost C++ library to handle very fast updates on databases.
-=============================================
+*********************************
 How to prepare the server:
 Network Config:
 1. Make sure that there are only two interfaces lo and enps03
@@ -30,18 +30,18 @@ Code Config:
 6. Now copy Serverv4.jar in the command folder:
 #cp Server.jar /usr/src/distributed_system_sip_update_command/
 (Make sure that both Server.jar and Client.jar are on the VM if you are testing)
-=============================================
+*********************************
 How to run the server:
 1. Use the following command to run the underlay server:
 #server
 2. Use this command to run the sip server:
 #cd /usr/src/distributed_system_sip_update_command
 #java -jar Server.jar
-=============================================
+*********************************
 How to run the Client:
 1. Use the following command to run the client:
 #java -jar Client.jar
-=============================================
+*********************************
 Features:
 1. Decentralized and hierarchical design 
 2. scalable and reliable
