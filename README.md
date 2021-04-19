@@ -7,19 +7,19 @@
 <br />
 <p align="center">
 
-  <h3 align="center">FTP Server</h3>
+  <h3 align="center">Distributed Telegram</h3>
 
   <p align="center">
     An FTP server that receives a file from an FTP client using Java IO.
     <br />
-    <a href="https://github.com/arshiahsn/StopAndWait"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/arshiahsn/distributed-telegram"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/arshiahsn/StopAndWait">View Demo</a>
+    <a href="https://github.com/arshiahsn/distributed-telegram">View Demo</a>
     ·
-    <a href="https://github.com/arshiahsn/StopAndWait/issues">Report Bug</a>
+    <a href="https://github.com/arshiahsn/distributed-telegram/issues">Report Bug</a>
     ·
-    <a href="https://github.com/arshiahsn/StopAndWait/issues">Request Feature</a>
+    <a href="https://github.com/arshiahsn/distributed-telegram/issues">Request Feature</a>
   </p>
 </p>
 
