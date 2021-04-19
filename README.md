@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Implementation of an FTP client that works based on the TCP/IP stop-and-wait protocol.
+A distributed messaging application with SIP protocol. This project includes both the server and the client. The server has an overlay what is implemented with Java EE/Socket IO, and an underlay that is implemented with C++.
 
 
 ### Built With
