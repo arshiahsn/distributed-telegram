@@ -10,7 +10,7 @@
   <h3 align="center">Distributed Telegram</h3>
 
   <p align="center">
-    An FTP server that receives a file from an FTP client using Java IO.
+    A distributed messaging application with SIP protocol.
     <br />
     <a href="https://github.com/arshiahsn/distributed-telegram"><strong>Explore the docs »</strong></a>
     <br />
@@ -62,6 +62,7 @@ Implementation of an FTP client that works based on the TCP/IP stop-and-wait pro
 ### Built With
 
 * [JDK8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+* [Boost C++ Libraries](https://www.boost.org)
 
 
 
